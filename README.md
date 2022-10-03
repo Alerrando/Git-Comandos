@@ -51,3 +51,16 @@ git remote show origin
 ```
 git remote rm (nome do repositorio remoto)
 ```
+
+<hr/>
+<br/>
+
+### Buscar e baixar os conteúdo do repositório
+```
+git pull
+```
+
+### Busca as alterações, mas não aplica elas na branch atual
+```
+git fetch
+```
