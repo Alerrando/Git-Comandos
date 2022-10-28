@@ -1,3 +1,14 @@
+## Configurando o usuário global para cada commit
+```
+git config --global user.name "Seu nome para exibição"
+```
+## Configurando o email global para cada commit
+```
+git config --global user.email "seu-email@email.com"
+```
+<hr />
+<br />
+
 ## Incluir ou modificar todos arquivos do diretório:
 ```
 git add .
@@ -63,4 +74,16 @@ git pull
 ### Busca as alterações, mas não aplica elas na branch atual
 ```
 git fetch
+```
+<hr/>
+<br/>
+
+### Criar uma nova branch
+```
+git branch (Nome da branch)
+```
+
+### Alterar para a nova branch ou uma já existente
+```
+git checkout (Nome da branch)
 ```
