@@ -87,3 +87,18 @@ git branch (Nome da branch)
 ```
 git checkout (Nome da branch)
 ```
+
+### Deletar branch
+```
+git branch -d (nome-da-branch)
+```
+
+### Mostrar todas as branchs
+```
+git branch
+```
+
+### Mesclar uma branch na branch atual
+```
+git merge (nome da branch)
+```
