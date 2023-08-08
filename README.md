@@ -27,6 +27,11 @@ git push -u origin master
 git push
 ```
 
+## Deletar o último commit: 
+```
+git reset --hard HEAD~1
+```
+
 <hr/>
 <br/>
 
